@@ -23,6 +23,9 @@ Packages and applications listed in `Brewfile`, such as:
 - Visual Studio Code
 - additional development utilities
 
+Note: The list of utilities may change over time as tools are added, removed, or updated. 
+The authoritative list of installed packages is defined in the Brewfile.
+
 Installed using:
 
 brew bundle
